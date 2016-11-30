@@ -13,5 +13,10 @@ public class JavaApplication1 {
         for(int i=0; i<n; i++){
         System.out.println("Hello World1");
     }
+        for(int j=0; j<5; j++){
+            
+            System.out.println("Please enter anything:");
+            String s = sc.next();
+            System.out.println(s);
     }
 }
