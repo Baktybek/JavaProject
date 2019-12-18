@@ -1,4 +1,6 @@
-package Sprint4;
+//In this code below i will sort the array by using Arrays.sort
+//and save them in a new array without changing the the orders 
+//of negative elements in it.
 
 import com.sun.tools.corba.se.idl.constExpr.Negative;
 
