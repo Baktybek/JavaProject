@@ -8,7 +8,7 @@ public class palindromePrint {
     public static void main(String[] args) {
         String res = "";
         boolean flag = false;
-        String str = "myakymtruck";
+        String str = "udafhnkayaksdjffn";
         //Outer for loop will check from beginning towards the end of string
         for (int i = 0; i < str.length(); i++) {
             //Inner loop will start checking from the last char of the string
