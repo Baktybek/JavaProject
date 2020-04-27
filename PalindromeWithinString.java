@@ -38,11 +38,11 @@ public class palindromePrint {
                 }
             }
             //once only one palindrome is found break the loop
-            if(flag == true){
+            if(flag){
                 break;
             }
         }
-        if(flag == false){
+        if(!flag){
             System.out.println("There is no palindrome in the given string.");
         }
     }
